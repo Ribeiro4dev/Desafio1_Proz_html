@@ -13,29 +13,10 @@ img. https://drive.google.com/file/d/1qncfyw7EtEcMjjg-V--yusoVppGNAl66/view
 //Seguindo o proposto no desafio 1.
 //Foram identificadas as seguintes tags:
 
-#html
-
-1. `<Header>`
-2. `<Main>`
-3. `<Nav>`
-4. `<img>`
-5. `<h1>`
-6. `<h2>`
-7. `<p>`
-
 //Seguindo o proposto no desafio 2.
 //Foram identificadas as seguintes tags:
-
-8. `<a>`
-9. `<footer>`
-10. `<ul>`
-11. `<li>`
 
 //Seguindo o proposto no desafio 3.
 //Foram identificadas as seguintes tags:    
 
-12. `<form>`
-13. `<label>`
-14. `<input>`
-15. `<select>`
-16. `<button>`
+
