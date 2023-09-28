@@ -13,7 +13,9 @@ img. https://drive.google.com/file/d/1qncfyw7EtEcMjjg-V--yusoVppGNAl66/view
 //Seguindo o proposto no desafio 1.
 //Foram identificadas as seguintes tags:
 
-1. <Header>
+#html
+
+1. '<Header>'
 2. <Main>
 3. <Nav>
 4. <img>
