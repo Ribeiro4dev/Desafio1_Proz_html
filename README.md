@@ -8,22 +8,6 @@ img. https://drive.google.com/file/d/1pYWNoZoBvhcZtuMqsVFsYnTg6_qkV6w_/view?pli=
 
 img. https://drive.google.com/file/d/1jKmujhGr4QJYfvEvuq4JbP50ylAk1OjH/view
 
-img. https://drive.google.com/file/d/1qncfyw7EtEcMjjg-V--yusoVppGNAl66/view
-
-//Seguindo o proposto no desafio 1.
-//Foram identificadas as seguintes tags: 
-<Header>  
-<Main>
-<Nav>
-<img>
-<h1>
-<h2>
-<p>
-
-//Seguindo o proposto no desafio 2.
-//Foram identificadas as seguintes tags:
-
-//Seguindo o proposto no desafio 3.
-//Foram identificadas as seguintes tags:    
+img. https://drive.google.com/file/d/1qncfyw7EtEcMjjg-V--yusoVppGNAl66/view  
 
 
